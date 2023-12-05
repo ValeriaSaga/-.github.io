@@ -1,0 +1,30 @@
+div {
+      border: 3px solid pink;
+      margin: 5px;
+      background-color: lightblue;
+}
+#b1{ 
+      background-color: yellow;
+}
+.column {
+      background-color: gray;
+      padding: 5px;
+}
+#b3 {
+     width: 25%;
+     float: left;
+}
+
+#b4 {
+     width: 60%;
+     float: left;
+}
+
+#b5 {
+     width: 13%;
+     float: left;
+}
+
+
+
+ 
